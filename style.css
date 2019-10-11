@@ -11,3 +11,23 @@ li {
     margin-left: 55px;
     margin-right: 55px;
 }
+
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: 008080;
+}
+
+nav ul li a:hover {
+    color: 33dd22;
+}
+
+main {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background: #e0ebe8;
+}
